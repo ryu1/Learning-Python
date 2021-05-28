@@ -1,0 +1,3 @@
+[submodule "django-book-mysite-sample"]
+	path = django-book-mysite-sample
+	url = https://github.com/akiyoko/django-book-mysite-sample
